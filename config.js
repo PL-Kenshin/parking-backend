@@ -1,6 +1,6 @@
 const config = {
    port: process.env.PORT || 4000,
-   mongoPath:"mongodb+srv://KenshinPL:5sg3fRS1NEfhQ5IS@cluster0.uczpp8c.mongodb.net/parking"
+   mongoPath:"secret"
 };
 
 const items = [
